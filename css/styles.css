@@ -1,13 +1,25 @@
 /*-----UNIVERSALS-------*/
+.row {
+  padding: 15px;
+}
+.vertical-align {
+    display: flex;
+    align-items: center;
+}
 .black {
     background-color: #000;
 }
-
 .small-height {
     height: 20px;
 }
 .medium-height {
     height: 60px;
+}
+.max-height {
+  height:   240px;
+}
+.full-height {
+  height:   120px;
 }
 
 /*-----UNIVERSALS-------*/
